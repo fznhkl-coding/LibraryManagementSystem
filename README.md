@@ -3,13 +3,7 @@ Group Project for CSC301 - Visual Programming
 
 ## Tools Used
 ### Software
-- Visual Studio Code
-- XAMPP (Apache and PhpMyAdmin SQL)
-- Google Chrome
+- Visual Studio 2022
 
 ### Languages
-- HTML
-- CSS
-- JavaScript
-- PHP
-- SQL
+- Visual Basic
