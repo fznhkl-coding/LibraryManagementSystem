@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CSC301GroupProject\\LibraryManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D811A91-DD7E-4C82-92EE-BCAB7C3B1280}|LibraryManagementSystem\\LibraryManagementSystem.vbproj|c:\\csc301groupproject\\librarymanagementsystem\\librarymanagementsystem\\form4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{9D811A91-DD7E-4C82-92EE-BCAB7C3B1280}|LibraryManagementSystem\\LibraryManagementSystem.vbproj|solutionrelative:librarymanagementsystem\\form4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D811A91-DD7E-4C82-92EE-BCAB7C3B1280}|LibraryManagementSystem\\LibraryManagementSystem.vbproj|C:\\CSC301GroupProject\\LibraryManagementSystem\\librarymanagementsystem\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{9D811A91-DD7E-4C82-92EE-BCAB7C3B1280}|LibraryManagementSystem\\LibraryManagementSystem.vbproj|solutionrelative:librarymanagementsystem\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D811A91-DD7E-4C82-92EE-BCAB7C3B1280}|LibraryManagementSystem\\LibraryManagementSystem.vbproj|C:\\CSC301GroupProject\\LibraryManagementSystem\\librarymanagementsystem\\form5.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{9D811A91-DD7E-4C82-92EE-BCAB7C3B1280}|LibraryManagementSystem\\LibraryManagementSystem.vbproj|solutionrelative:librarymanagementsystem\\form5.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D811A91-DD7E-4C82-92EE-BCAB7C3B1280}|LibraryManagementSystem\\LibraryManagementSystem.vbproj|C:\\CSC301GroupProject\\LibraryManagementSystem\\librarymanagementsystem\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{9D811A91-DD7E-4C82-92EE-BCAB7C3B1280}|LibraryManagementSystem\\LibraryManagementSystem.vbproj|solutionrelative:librarymanagementsystem\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D811A91-DD7E-4C82-92EE-BCAB7C3B1280}|LibraryManagementSystem\\LibraryManagementSystem.vbproj|C:\\CSC301GroupProject\\LibraryManagementSystem\\librarymanagementsystem\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{9D811A91-DD7E-4C82-92EE-BCAB7C3B1280}|LibraryManagementSystem\\LibraryManagementSystem.vbproj|solutionrelative:librarymanagementsystem\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form5.vb [Design]",
+              "DocumentMoniker": "C:\\CSC301GroupProject\\LibraryManagementSystem\\LibraryManagementSystem\\Form5.vb",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Form5.vb",
+              "ToolTip": "C:\\CSC301GroupProject\\LibraryManagementSystem\\LibraryManagementSystem\\Form5.vb [Design]",
+              "RelativeToolTip": "LibraryManagementSystem\\Form5.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-01-07T13:30:51.035Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form3.vb [Design]",
+              "DocumentMoniker": "C:\\CSC301GroupProject\\LibraryManagementSystem\\LibraryManagementSystem\\Form3.vb",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Form3.vb",
+              "ToolTip": "C:\\CSC301GroupProject\\LibraryManagementSystem\\LibraryManagementSystem\\Form3.vb [Design]",
+              "RelativeToolTip": "LibraryManagementSystem\\Form3.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-01-07T13:46:52.475Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form4.vb [Design]",
+              "DocumentMoniker": "C:\\CSC301GroupProject\\LibraryManagementSystem\\LibraryManagementSystem\\Form4.vb",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Form4.vb",
+              "ToolTip": "C:\\CSC301GroupProject\\LibraryManagementSystem\\LibraryManagementSystem\\Form4.vb [Design]",
+              "RelativeToolTip": "LibraryManagementSystem\\Form4.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-01-07T13:30:47.779Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.vb [Design]",
+              "DocumentMoniker": "C:\\CSC301GroupProject\\LibraryManagementSystem\\LibraryManagementSystem\\Form2.vb",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Form2.vb",
+              "ToolTip": "C:\\CSC301GroupProject\\LibraryManagementSystem\\LibraryManagementSystem\\Form2.vb [Design]",
+              "RelativeToolTip": "LibraryManagementSystem\\Form2.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-01-07T13:30:40.676Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\CSC301GroupProject\\LibraryManagementSystem\\LibraryManagementSystem\\Form1.vb",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Form1.vb",
+              "ToolTip": "C:\\CSC301GroupProject\\LibraryManagementSystem\\LibraryManagementSystem\\Form1.vb [Design]",
+              "RelativeToolTip": "LibraryManagementSystem\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-01-03T14:48:40.402Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
